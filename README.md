@@ -14,11 +14,3 @@ Ola, sou Mikael<br>Sou um desenvolvedor front end iniciante<br>Tenho 18 anos e s
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@Mikael_ofc_15)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=mikael15ofc&icon=4&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
